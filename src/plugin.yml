@@ -1,0 +1,4 @@
+name: YhRecados
+main: com.yuhtin.recados.YhRecados
+version: '1.0-RELEASE'
+softdepend: [PlaceholderAPI]
